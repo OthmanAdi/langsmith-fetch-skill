@@ -1,0 +1,44 @@
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# Debug exports (if users run commands locally)
+langsmith-debug/
+debug-sessions/
+*.json.bak
+
+# Python (if users test scripts)
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+venv/
+env/
+*.egg-info/
+
+# Node (if future tooling is added)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Environment variables (security)
+.env
+.env.local
+.env.*.local
