@@ -1,6 +1,6 @@
 # 🔍 LangSmith Fetch Skill for Claude Code
 
-> **The first AI observability & debugging skill for Claude!**
+> **AI observability & debugging skill for Claude!**
 
 Debug LangChain and LangGraph agents by fetching execution traces from LangSmith Studio directly in your terminal using Claude Code.
 
@@ -328,4 +328,4 @@ May your agents run smoothly and your debugging be swift in the year ahead!
 
 **Built with ❤️ by [Ahmad Othman Ammar Adi](https://github.com/OthmanAdi) for the AI debugging community**
 
-*This is the first AI observability skill for Claude Code. Help us make it better!*
+*This is the AI observability skill for Claude Code. Help us make it better!*
