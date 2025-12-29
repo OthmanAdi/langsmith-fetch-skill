@@ -327,5 +327,3 @@ May your agents run smoothly and your debugging be swift in the year ahead!
 ---
 
 **Built with ❤️ by [Ahmad Othman Ammar Adi](https://github.com/OthmanAdi) for the AI debugging community**
-
-*This is the AI observability skill for Claude Code. Help us make it better!*
