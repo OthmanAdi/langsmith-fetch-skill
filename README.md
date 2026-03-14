@@ -57,6 +57,15 @@ Get your API key from: https://smith.langchain.com/
 
 ### 3. Install the Skill
 
+```bash
+npx skills add OthmanAdi/langsmith-fetch-skill --skill langsmith-fetch -g
+```
+
+Works with Claude Code, Cursor, Codex, Gemini CLI, and 40+ agents supporting the [Agent Skills](https://agentskills.io) spec.
+
+<details>
+<summary><strong>📦 Alternative Install Methods</strong></summary>
+
 #### Option A: Personal Skill (Just for you)
 ```bash
 mkdir -p ~/.claude/skills/langsmith-fetch
@@ -71,6 +80,8 @@ git add .claude/skills/
 git commit -m "Add LangSmith Fetch skill"
 git push
 ```
+
+</details>
 
 ### 4. Use with Claude
 
