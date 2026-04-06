@@ -1,3 +1,7 @@
+<div align="center">
+<img src="media/banner.png" alt="langsmith-fetch" width="100%">
+</div>
+
 # 🔍 LangSmith Fetch Skill for Claude Code
 
 > **AI observability & debugging skill for Claude!**
